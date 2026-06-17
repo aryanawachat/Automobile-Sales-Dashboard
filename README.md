@@ -4,6 +4,16 @@ Interactive Automobile Sales Dashboard using Python, Dash and Plotly
 ## Project Overview
 Interactive dashboard analyzing automobile sales trends during recession and non-recession periods.
 
+## Skills Demonstrated
+- Python
+- Pandas
+- Plotly
+- Dash
+- Data Visualization
+- Dashboard Development
+- Data Analysis
+- Interactive Reporting
+
 ## Tools Used
 - Python
 - Dash
